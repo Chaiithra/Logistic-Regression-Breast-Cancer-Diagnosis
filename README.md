@@ -135,7 +135,9 @@ jupyter notebook Breast_Cancer_Logistic_Regression.ipynb
 
 ## 📧 **Contact**
 Made with ❤️ by [Chaiithra Thota]
+
 Connect on LinkedIn:(https://www.linkedin.com/in/chaiithrathota/)
+
 Connect on Twitter: (https://x.com/DebugDiary_)
 
 ---
